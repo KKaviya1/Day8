@@ -1,0 +1,7 @@
+Welcome to stream writing example...
+
+Hello
+Morning
+I'm here!!
+Thank you
+Bye!!

@@ -1,0 +1,8 @@
+F:\Day - 7\filehandling\filehandling\obj\Debug\filehandling.csproj.AssemblyReference.cache
+F:\Day - 7\filehandling\filehandling\obj\Debug\filehandling.csproj.SuggestedBindingRedirects.cache
+F:\Day - 7\filehandling\filehandling\obj\Debug\filehandling.csproj.CoreCompileInputs.cache
+F:\Day - 7\filehandling\filehandling\bin\Debug\filehandling.exe.config
+F:\Day - 7\filehandling\filehandling\bin\Debug\filehandling.exe
+F:\Day - 7\filehandling\filehandling\bin\Debug\filehandling.pdb
+F:\Day - 7\filehandling\filehandling\obj\Debug\filehandling.exe
+F:\Day - 7\filehandling\filehandling\obj\Debug\filehandling.pdb

@@ -1,0 +1,8 @@
+F:\Day - 8\parameterized\parameterized\bin\Debug\parameterized.exe.config
+F:\Day - 8\parameterized\parameterized\bin\Debug\parameterized.exe
+F:\Day - 8\parameterized\parameterized\bin\Debug\parameterized.pdb
+F:\Day - 8\parameterized\parameterized\obj\Debug\parameterized.csproj.AssemblyReference.cache
+F:\Day - 8\parameterized\parameterized\obj\Debug\parameterized.csproj.SuggestedBindingRedirects.cache
+F:\Day - 8\parameterized\parameterized\obj\Debug\parameterized.csproj.CoreCompileInputs.cache
+F:\Day - 8\parameterized\parameterized\obj\Debug\parameterized.exe
+F:\Day - 8\parameterized\parameterized\obj\Debug\parameterized.pdb
